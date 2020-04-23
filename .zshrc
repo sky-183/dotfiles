@@ -2,6 +2,8 @@
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH=/home/dell/anaconda3/Pycharm/bin:$PATH
 export PATH=/home/dell/anaconda3/bin:$PATH
+# for 42 header vim plugin
+export USER42=vflander
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/dell/.oh-my-zsh"
