@@ -1,2 +1,5 @@
 # dotfiles
-my current config files for vim and zsh
+my current config files for:
+* vim
+* zsh
+* double commander
