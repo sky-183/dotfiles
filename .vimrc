@@ -45,6 +45,7 @@ let NERDTreeShowHidden=1
 
 
 " User settings
+
 " syntax highlights
 syntax on
 " visual helpers
@@ -63,6 +64,8 @@ set cindent
 set list
 nmap <leader>' :set list! number! relativenumber!<CR>
 set listchars=tab:>-,eol:¬
+" alternative Esc key
+inoremap jj <ESC>
 " 4 space tabs
 set tabstop=4 shiftwidth=4
 " default shell
