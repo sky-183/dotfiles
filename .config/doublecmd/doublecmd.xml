@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<doublecmd DCVersion="0.8.2 beta" ConfigVersion="10">
-  <Configuration Save="True" SortOrder="0">
+<doublecmd DCVersion="0.9.8 beta" ConfigVersion="10">
+  <Configuration Save="True" SortOrder="0" TreeType="0">
     <UseConfigInProgramDir>False</UseConfigInProgramDir>
+    <FolderTabs Save="True"/>
   </Configuration>
   <Colors>
     <FileFilters>
@@ -63,12 +64,17 @@
       <ForeColor>10789024</ForeColor>
       <BackColor>16777215</BackColor>
     </FreeSpaceIndicator>
+    <LogWindow>
+      <Info>8388608</Info>
+      <Error>255</Error>
+      <Success>32768</Success>
+    </LogWindow>
   </Colors>
   <Plugins>
     <WlxPlugins>
       <WlxPlugin Enabled="True">
         <Name>wlxMplayer</Name>
-        <Path>%COMMANDER_PATH%/plugins/wlx/wlxmplayer/wlxmplayer.wlx</Path>
+        <Path>%commander_path%/plugins/wlx/wlxmplayer/wlxmplayer.wlx</Path>
         <DetectString>(EXT="MPG")|(EXT="AVI")|(EXT="MPEG")|(EXT="FLV")</DetectString>
       </WlxPlugin>
     </WlxPlugins>
@@ -182,6 +188,20 @@
         <Path>%commander_path%/plugins/wfx/samba/samba.wfx</Path>
       </WfxPlugin>
     </WfxPlugins>
+    <TweakPluginWidth0>0</TweakPluginWidth0>
+    <TweakPluginHeight0>0</TweakPluginHeight0>
+    <TweakPluginWidth1>0</TweakPluginWidth1>
+    <TweakPluginHeight1>0</TweakPluginHeight1>
+    <TweakPluginWidth2>0</TweakPluginWidth2>
+    <TweakPluginHeight2>0</TweakPluginHeight2>
+    <TweakPluginWidth3>0</TweakPluginWidth3>
+    <TweakPluginHeight3>0</TweakPluginHeight3>
+    <TweakPluginWidth4>0</TweakPluginWidth4>
+    <TweakPluginHeight4>0</TweakPluginHeight4>
+    <AutoTweak>False</AutoTweak>
+    <WCXConfigViewMode>0</WCXConfigViewMode>
+    <PluginFilenameStyle>0</PluginFilenameStyle>
+    <PluginPathToBeRelativeTo>%COMMANDER_PATH%</PluginPathToBeRelativeTo>
   </Plugins>
   <Toolbars>
     <MainToolbar>
@@ -286,7 +306,7 @@
     </MainToolbar>
   </Toolbars>
   <MainWindow>
-    <Position>
+    <Position Save="True">
       <Left>0</Left>
       <Top>34</Top>
       <Width>1680</Width>
@@ -312,45 +332,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="node-v12.16.1-linux-x64">/home/dell/Downloads/</Path>
-                  <Path Filename="share">/home/dell/Downloads/node-v12.16.1-linux-x64/</Path>
-                  <Path Filename="doc">/home/dell/Downloads/node-v12.16.1-linux-x64/share/</Path>
-                  <Path Filename="node">/home/dell/Downloads/node-v12.16.1-linux-x64/share/doc/</Path>
-                  <Path Filename="..">/home/dell/Downloads/node-v12.16.1-linux-x64/share/doc/node/</Path>
-                  <Path Filename="..">/home/dell/Downloads/node-v12.16.1-linux-x64/share/doc/</Path>
-                  <Path Filename="..">/home/dell/Downloads/node-v12.16.1-linux-x64/share/</Path>
-                  <Path Filename="lib">/home/dell/Downloads/node-v12.16.1-linux-x64/</Path>
-                  <Path Filename="..">/home/dell/Downloads/node-v12.16.1-linux-x64/lib/</Path>
-                  <Path Filename="include">/home/dell/Downloads/node-v12.16.1-linux-x64/</Path>
-                  <Path Filename="..">/home/dell/Downloads/node-v12.16.1-linux-x64/include/</Path>
-                  <Path Filename="bin">/home/dell/Downloads/node-v12.16.1-linux-x64/</Path>
-                  <Path Filename="..">/home/dell/Downloads/node-v12.16.1-linux-x64/bin/</Path>
-                  <Path Filename="..">/home/dell/Downloads/node-v12.16.1-linux-x64/</Path>
-                  <Path Filename="node-v12.16.1-linux-x64">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/node-v12.16.1-linux-x64/</Path>
-                  <Path Filename="lib">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/lib/</Path>
-                  <Path Filename="lib">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/lib/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="Telegram Desktop">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/Telegram Desktop/</Path>
-                  <Path Filename="[sharewood.biz] [Константин Шереметьев, Артем Проскурнев] Практика программирования на языке Си(C) для начинающих (2018) (1)">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/[sharewood.biz] [Константин Шереметьев, Артем Проскурнев] Практика программирования на языке Си(C) для начинающих (2018) (1)/</Path>
-                  <Path Filename="[sharewood.biz] [Константин Шереметьев, Артем Проскурнев] Практика программирования на языке Си(C) для начинающих (2018) (1)">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/[sharewood.biz] [Константин Шереметьев, Артем Проскурнев] Практика программирования на языке Си(C) для начинающих (2018) (1)/</Path>
-                  <Path Filename="[sharewood.biz] [Константин Шереметьев, Артем Проскурнев] Практика программирования на языке Си(C) для начинающих (2018)">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/[sharewood.biz] [Константин Шереметьев, Артем Проскурнев] Практика программирования на языке Си(C) для начинающих (2018)/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="Telegram Desktop">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/Telegram Desktop/</Path>
                   <Path Filename="Telegram Desktop">/home/dell/Downloads/</Path>
                   <Path Filename="..">/home/dell/Downloads/Telegram Desktop/</Path>
                   <Path Filename="Telegram Desktop">/home/dell/Downloads/</Path>
@@ -362,6 +343,45 @@
                   <Path Filename="bootstrap">/home/dell/Downloads/</Path>
                   <Path Filename="..">/home/dell/Downloads/bootstrap/</Path>
                   <Path Filename="..">/home/dell/Downloads/</Path>
+                  <Path Filename="..">/home/dell/</Path>
+                  <Path Filename="Ubuntu stuff">/media/dell/SKY 500/</Path>
+                  <Path Filename="Desktop">/media/dell/SKY 500/Ubuntu stuff/</Path>
+                  <Path Filename="Django_3_By_Example_Build_powerful_and_reliable_Python_web_applications.pdf">/media/dell/SKY 500/Ubuntu stuff/Desktop/</Path>
+                  <Path Filename="Documents">/media/dell/SKY 500/Ubuntu stuff/</Path>
+                  <Path Filename="1_diving_into_python">/media/dell/SKY 500/Ubuntu stuff/Documents/</Path>
+                  <Path Filename="Documents">/media/dell/SKY 500/Ubuntu stuff/</Path>
+                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/Documents/</Path>
+                  <Path Filename="Fallout2FE">/media/dell/SKY 500/Ubuntu stuff/</Path>
+                  <Path Filename="documents">/media/dell/SKY 500/Ubuntu stuff/Fallout2FE/</Path>
+                  <Path Filename="plugins">/media/dell/SKY 500/Ubuntu stuff/</Path>
+                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/plugins/</Path>
+                  <Path Filename="plugins">/media/dell/SKY 500/Ubuntu stuff/</Path>
+                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/plugins/</Path>
+                  <Path Filename="coding_time">/media/dell/SKY 500/Ubuntu stuff/</Path>
+                  <Path Filename="school_21">/media/dell/SKY 500/Ubuntu stuff/coding_time/</Path>
+                  <Path Filename="42ai">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/</Path>
+                  <Path Filename="python_bootcamp">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/</Path>
+                  <Path Filename="day04">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/</Path>
+                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day04/</Path>
+                  <Path Filename="day01">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/</Path>
+                  <Path Filename="ex00">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/</Path>
+                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/ex00/</Path>
+                  <Path Filename="ex00">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/</Path>
+                  <Path Filename="book.py">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/ex00/</Path>
+                  <Path Filename="ex00">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/</Path>
+                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/ex05/</Path>
+                  <Path Filename="ex05">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/</Path>
+                  <Path Filename="Downloads">/home/dell/</Path>
+                  <Path Filename="zsh-syntax-highlighting-0.6.0">/home/dell/Downloads/</Path>
+                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting-0.6.0/</Path>
+                  <Path Filename="zsh-syntax-highlighting-0.6.0">/home/dell/Downloads/</Path>
+                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting-0.6.0/</Path>
+                  <Path Filename="zsh-syntax-highlighting">/home/dell/Downloads/</Path>
+                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting/</Path>
+                  <Path Filename="zsh-syntax-highlighting">/home/dell/Downloads/</Path>
+                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting/</Path>
+                  <Path Filename="..">/home/dell/Downloads/</Path>
+                  <Path Filename="..">/home/dell/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -393,7 +413,30 @@
                   <Path Filename="lib">/</Path>
                   <Path Filename="..">/home/dell/Downloads/[sharewood.biz] [Константин Шереметьев, Артем Проскурнев] Практика программирования на языке Си(C) для начинающих (2018)/</Path>
                   <Path Filename="..">/home/dell/Downloads/</Path>
+                  <Path Filename="Desktop">/home/dell/</Path>
+                  <Path Filename="..">/home/dell/Desktop/</Path>
+                  <Path Filename="Documents">/home/dell/</Path>
+                  <Path Filename="..">/home/dell/Documents/</Path>
+                  <Path Filename="Games">/home/dell/</Path>
+                  <Path Filename="..">/home/dell/Games/</Path>
+                  <Path Filename="Downloads">/home/dell/</Path>
+                  <Path Filename="..">/home/dell/Downloads/</Path>
                   <Path Filename="..">/home/dell/</Path>
+                  <Path Filename="dell">/home/</Path>
+                  <Path Filename="Games">/home/dell/</Path>
+                  <Path Filename="Northgard">/home/dell/Games/</Path>
+                  <Path Filename="Northgard - The Viking Age">/home/dell/Games/Northgard/</Path>
+                  <Path Filename="run.sh">/home/dell/Games/Northgard/Northgard - The Viking Age/</Path>
+                  <Path Filename="..">/home/dell/Games/</Path>
+                  <Path Filename=".oh-my-zsh">/home/dell/</Path>
+                  <Path Filename="plugins">/home/dell/.oh-my-zsh/</Path>
+                  <Path Filename="zsh-syntax-highlighting">/home/dell/.oh-my-zsh/plugins/</Path>
+                  <Path Filename="..">/home/dell/.oh-my-zsh/plugins/zsh-syntax-highlighting/</Path>
+                  <Path Filename="zsh-syntax-highlighting">/home/dell/.oh-my-zsh/plugins/</Path>
+                  <Path Filename="plugins">/home/dell/.oh-my-zsh/</Path>
+                  <Path Filename="coding_time">/home/dell/</Path>
+                  <Path Filename="school_21">/home/dell/coding_time/</Path>
+                  <Path Filename="..">/home/dell/coding_time/school_21/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -414,6 +457,7 @@
   </Language>
   <Behaviours>
     <GoToRoot>False</GoToRoot>
+    <ActiveRight>False</ActiveRight>
     <RunInTerminalStayOpenCmd>x-terminal-emulator</RunInTerminalStayOpenCmd>
     <RunInTerminalStayOpenParams>-e sh -c '{command}; echo -n Press ENTER to exit... ; read a'</RunInTerminalStayOpenParams>
     <RunInTerminalCloseCmd>x-terminal-emulator</RunInTerminalCloseCmd>
@@ -423,12 +467,22 @@
     <OnlyOneAppInstance>False</OnlyOneAppInstance>
     <LynxLike>True</LynxLike>
     <FileSizeFormat>0</FileSizeFormat>
+    <OperationSizeFormat>0</OperationSizeFormat>
+    <HeaderFooterSizeFormat>0</HeaderFooterSizeFormat>
     <FileSizeDigits>1</FileSizeDigits>
+    <HeaderFooterDigits>1</HeaderFooterDigits>
+    <OperationSizeDigits>1</OperationSizeDigits>
+    <PersonalizedByte>B</PersonalizedByte>
+    <PersonalizedKilo>KB</PersonalizedKilo>
+    <PersonalizedMega>MB</PersonalizedMega>
+    <PersonalizedGiga>GB</PersonalizedGiga>
+    <PersonalizedTera>TB</PersonalizedTera>
     <MinimizeToTray>True</MinimizeToTray>
     <AlwaysShowTrayIcon>False</AlwaysShowTrayIcon>
     <Mouse>
       <Selection Enabled="True">
         <Button>1</Button>
+        <IconClick>0</IconClick>
       </Selection>
       <SingleClickStart>0</SingleClickStart>
       <ScrollMode>1</ScrollMode>
@@ -456,8 +510,8 @@
       <RunInTerminal>False</RunInTerminal>
       <KeepTerminalOpen>False</KeepTerminalOpen>
     </Viewer>
-    <Editor Enabled="False">
-      <Path/>
+    <Editor Enabled="True">
+      <Path>$PATH/vim</Path>
       <Parameters/>
       <RunInTerminal>False</RunInTerminal>
       <KeepTerminalOpen>False</KeepTerminalOpen>
@@ -541,6 +595,8 @@
   <ToolTips>
     <ShowToolTipMode>True</ShowToolTipMode>
     <CustomFields/>
+    <ActualToolTipMode>0</ActualToolTipMode>
+    <ToolTipHideTimeOut>0</ToolTipHideTimeOut>
   </ToolTips>
   <Layout>
     <MainMenu>True</MainMenu>
@@ -650,6 +706,9 @@
       <CopyPermissions>False</CopyPermissions>
       <ExcludeEmptyTemplateDirectories>True</ExcludeEmptyTemplateDirectories>
     </Options>
+    <Extract>
+      <Overwrite>False</Overwrite>
+    </Extract>
   </FileOperations>
   <Log Enabled="False" LogFileWithDateInName="False">
     <FileName>%DC_CONFIG_PATH%/doublecmd.log</FileName>
@@ -684,6 +743,7 @@
     <ShowPathInPopup>False</ShowPathInPopup>
     <ShowOnlyValidEnv>True</ShowOnlyValidEnv>
     <WhereToAddNewHotDir>2</WhereToAddNewHotDir>
+    <InplaceRenameButton>False</InplaceRenameButton>
   </Miscellaneous>
   <Thumbnails Save="True">
     <Width>128</Width>
@@ -714,6 +774,7 @@
       <Size>16</Size>
     </ShowInMenus>
     <ShowButtonGlyphs>0</ShowButtonGlyphs>
+    <ShowHiddenDimmed>False</ShowHiddenDimmed>
   </Icons>
   <IgnoreList Enabled="False">
     <IgnoreListFile>%DC_CONFIG_PATH%/ignorelist.txt</IgnoreListFile>
@@ -730,18 +791,21 @@
     <CopyMovePath3/>
     <CopyMovePath4/>
     <CopyMovePath5/>
-    <PaintMode>Pen</PaintMode>
+    <PaintMode>0</PaintMode>
     <PaintWidth>5</PaintWidth>
     <NumberOfColumns>1</NumberOfColumns>
-    <ViewerMode>0</ViewerMode>
+    <ViewerMode>1</ViewerMode>
     <PaintColor>255</PaintColor>
     <BackgroundColor>0</BackgroundColor>
     <FontColor>16777215</FontColor>
     <TextPosition>0</TextPosition>
+    <TabSpaces>8</TabSpaces>
+    <MaxTextWidth>1024</MaxTextWidth>
   </Viewer>
   <Editor>
     <EditWaitTime>2000</EditWaitTime>
     <SynEditOptions>856075</SynEditOptions>
+    <SynEditTabWidth>4</SynEditTabWidth>
   </Editor>
   <SyncDirs>
     <Subdirs>False</Subdirs>
@@ -754,6 +818,7 @@
     <FilterDuplicates>True</FilterDuplicates>
     <FilterSingles>True</FilterSingles>
     <FileMask>*</FileMask>
+    <Asymmetric Save="False">False</Asymmetric>
   </SyncDirs>
   <InternalAssociations>
     <OfferToAddNewFileType>False</OfferToAddNewFileType>
@@ -874,6 +939,7 @@
       <FileSizeUnit>1</FileSizeUnit>
       <IsFindText>False</IsFindText>
       <IsReplaceText>False</IsReplaceText>
+      <HexValue>False</HexValue>
       <CaseSensitive>False</CaseSensitive>
       <NotContainingText>False</NotContainingText>
       <TextRegExp>False</TextRegExp>
@@ -886,6 +952,7 @@
     <ColumnsSet UseFrameCursor="False">
       <Name>Default</Name>
       <CustomView>False</CustomView>
+      <FileSystem>&lt;General&gt;</FileSystem>
       <PixelsPerInch>120</PixelsPerInch>
       <CursorBorder Enabled="False">
         <Color>-2147483635</Color>

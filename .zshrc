@@ -1,7 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH=/home/dell/anaconda3/Pycharm/bin:$PATH
-export PATH=/home/dell/anaconda3/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
 # for 42 header vim plugin
 export USER42=vflander
 
@@ -100,7 +98,7 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-alias norminette="~/coding_time/school_21/norminette/norminette"
+#alias norminette="~/coding_time/school_21/norminette/norminette"
 alias zshconfig="vim ~/.zshrc"
 alias vimconfig="vim ~/.vimrc"
 alias brightness_0="xrandr --output HDMI-1 --brightness 0.4"

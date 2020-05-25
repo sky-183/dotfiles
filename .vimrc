@@ -1,3 +1,5 @@
+" color scheme
+colorscheme darkblue
 " syntax highlights
 syntax on
 " visual helpers
@@ -19,6 +21,7 @@ set listchars=tab:>-,eol:¬
 " alternative Esc key
 inoremap jj <ESC>
 " 4 space tabs
-set tabstop=4 shiftwidth=4
+set tabstop=4
+set shiftwidth=4
 " default shell
 set shell=/bin/zsh
