@@ -107,5 +107,5 @@ alias brightness_1="xrandr --output HDMI-1 --brightness 1"
 source /home/dell/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias config='/usr/bin/git --git-dir=/home/dell/.cfg/ --work-tree=/home/dell'
 alias ll='exa -l'
-alias la='exa'
+alias ls='exa'
 alias cat='batcat'
