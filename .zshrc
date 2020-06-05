@@ -77,17 +77,18 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-# export MANPATH="/usr/local/man:$MANPATH"
-
+export MANPATH="/usr/local/man:$MANPATH"
+export MANPAGER="sh -c 'col -bx | batcat -l man -p'"
+export MANROFFOPT="-c"
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+if [[ -n $SSH_CONNECTION ]]; then
+  export EDITOR='vim'
+else
+  export EDITOR='vim'
+fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
@@ -107,3 +108,4 @@ source /home/dell/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highligh
 alias config='/usr/bin/git --git-dir=/home/dell/.cfg/ --work-tree=/home/dell'
 alias ll='exa -l'
 alias la='exa'
+alias cat='batcat'
