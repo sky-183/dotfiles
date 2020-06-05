@@ -6,7 +6,6 @@ syntax on
 set ruler
 set number
 set relativenumber
-set cursorcolumn
 " search yellow highlight
 set hlsearch
 " do I really need a mouse for vim?
