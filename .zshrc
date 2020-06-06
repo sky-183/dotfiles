@@ -108,4 +108,6 @@ source /home/dell/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highligh
 alias config='/usr/bin/git --git-dir=/home/dell/.cfg/ --work-tree=/home/dell'
 alias ll='exa -l'
 alias ls='exa'
+alias l='exa -lahF'
 alias cat='batcat'
+alias find='fdfind'
