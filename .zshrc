@@ -77,9 +77,19 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
+# Use 'batcat' as man reader
 export MANPATH="/usr/local/man:$MANPATH"
 export MANPAGER="sh -c 'col -bx | batcat -l man -p'"
 export MANROFFOPT="-c"
+
+# 'tldr' settings
+complete -W "$(tldr 2>/dev/null --list)" tldrcomplete -W "$(tldr 2>/dev/null --list)" tldr
+export TLDR_HEADER='magenta bold underline'
+export TLDR_QUOTE='italic'
+export TLDR_DESCRIPTION='green'
+export TLDR_CODE='red'
+export TLDR_PARAM='blue'
+
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
@@ -111,3 +121,4 @@ alias ls='exa'
 alias l='exa -lahF'
 alias cat='batcat'
 alias find='fdfind'
+alias f='fzf --preview="batcat {} --color=always"'
