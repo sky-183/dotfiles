@@ -1,0 +1,35 @@
+{
+    "42header.username": "vflander",
+    "42header.email": "marvin@42.fr",
+
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindings": [
+      {
+        "before": ["j", "j"],
+        "after": ["<Esc>"]
+      }
+    ],
+    "workbench.colorTheme": "Material Theme Ocean",
+    "vim.commandLineModeKeyBindingsNonRecursive": [
+    ],
+
+    "keyboard.dispatch": "keyCode",
+
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    "C_Cpp.updateChannel": "Insiders",
+    "gitlens.remotes": [],
+    "editor.rulers": [
+      80
+    ],
+    "files.autoSave": "off"
+}
+
