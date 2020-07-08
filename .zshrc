@@ -112,8 +112,7 @@ fi
 #alias norminette="~/coding_time/school_21/norminette/norminette"
 alias zshconfig="vim ~/.zshrc"
 alias vimconfig="vim ~/.vimrc"
-alias brightness_0="xrandr --output HDMI-1 --brightness 0.4"
-alias brightness_1="xrandr --output HDMI-1 --brightness 1"
+alias brightness="xrandr --output HDMI-1 --brightness" #+value from 0.3 to 1.2
 source /home/dell/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias config='/usr/bin/git --git-dir=/home/dell/.cfg/ --work-tree=/home/dell'
 alias ll='exa -l'

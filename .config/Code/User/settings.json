@@ -30,6 +30,21 @@
     "editor.rulers": [
       80
     ],
-    "files.autoSave": "off"
+    "files.autoSave": "off",
+    "color-highlight.markerType": "dot-before",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "sync.gist": "ab4b2eaa5a56c796fc85d1740a026265",
+    "python.languageServer": "Microsoft",
+    "editor.useTabStops": false,
+    "bracket-pair-colorizer-2.colors": [
+
+      "Green",
+      "Gold",
+      "#55F"
+      //"LightSkyBlue"
+    ],
+    "editor.lineNumbers": "relative",
+    "editor.renderControlCharacters": false,
 }
 

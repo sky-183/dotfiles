@@ -307,10 +307,10 @@
   </Toolbars>
   <MainWindow>
     <Position Save="True">
-      <Left>0</Left>
-      <Top>34</Top>
-      <Width>1680</Width>
-      <Height>923</Height>
+      <Left>109</Left>
+      <Top>138</Top>
+      <Width>1260</Width>
+      <Height>674</Height>
       <PixelsPerInch>120</PixelsPerInch>
       <Maximized>True</Maximized>
       <Splitter>50</Splitter>
@@ -332,56 +332,56 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="Telegram Desktop">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/Telegram Desktop/</Path>
-                  <Path Filename="Telegram Desktop">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/Telegram Desktop/</Path>
-                  <Path Filename="Telegram Desktop">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/Telegram Desktop/</Path>
-                  <Path Filename="Telegram Desktop">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/Telegram Desktop/</Path>
-                  <Path Filename="bootstrap">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/bootstrap/</Path>
+                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting/</Path>
+                  <Path Filename="zsh-syntax-highlighting">/home/dell/Downloads/</Path>
+                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting/</Path>
                   <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/</Path>
-                  <Path Filename="Ubuntu stuff">/media/dell/SKY 500/</Path>
-                  <Path Filename="Desktop">/media/dell/SKY 500/Ubuntu stuff/</Path>
-                  <Path Filename="Django_3_By_Example_Build_powerful_and_reliable_Python_web_applications.pdf">/media/dell/SKY 500/Ubuntu stuff/Desktop/</Path>
-                  <Path Filename="Documents">/media/dell/SKY 500/Ubuntu stuff/</Path>
-                  <Path Filename="1_diving_into_python">/media/dell/SKY 500/Ubuntu stuff/Documents/</Path>
-                  <Path Filename="Documents">/media/dell/SKY 500/Ubuntu stuff/</Path>
-                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/Documents/</Path>
-                  <Path Filename="Fallout2FE">/media/dell/SKY 500/Ubuntu stuff/</Path>
-                  <Path Filename="documents">/media/dell/SKY 500/Ubuntu stuff/Fallout2FE/</Path>
-                  <Path Filename="plugins">/media/dell/SKY 500/Ubuntu stuff/</Path>
-                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/plugins/</Path>
-                  <Path Filename="plugins">/media/dell/SKY 500/Ubuntu stuff/</Path>
-                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/plugins/</Path>
-                  <Path Filename="coding_time">/media/dell/SKY 500/Ubuntu stuff/</Path>
-                  <Path Filename="school_21">/media/dell/SKY 500/Ubuntu stuff/coding_time/</Path>
-                  <Path Filename="42ai">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/</Path>
-                  <Path Filename="python_bootcamp">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/</Path>
-                  <Path Filename="day04">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/</Path>
-                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day04/</Path>
-                  <Path Filename="day01">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/</Path>
-                  <Path Filename="ex00">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/</Path>
-                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/ex00/</Path>
-                  <Path Filename="ex00">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/</Path>
-                  <Path Filename="book.py">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/ex00/</Path>
-                  <Path Filename="ex00">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/</Path>
-                  <Path Filename="..">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/ex05/</Path>
-                  <Path Filename="ex05">/media/dell/SKY 500/Ubuntu stuff/coding_time/school_21/42ai/python_bootcamp/day01/</Path>
                   <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="zsh-syntax-highlighting-0.6.0">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting-0.6.0/</Path>
-                  <Path Filename="zsh-syntax-highlighting-0.6.0">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting-0.6.0/</Path>
-                  <Path Filename="zsh-syntax-highlighting">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting/</Path>
-                  <Path Filename="zsh-syntax-highlighting">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting/</Path>
                   <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/</Path>
+                  <Path Filename="Downloads">/home/dell/</Path>
+                  <Path Filename="Celestian Tales Old North - GOG Linux">/home/dell/Downloads/</Path>
+                  <Path Filename="Documents">/home/dell/</Path>
+                  <Path Filename="Zoom_recordings">/home/dell/Documents/</Path>
+                  <Path Filename="2020-05-27 22.01.51 Sky's Zoom Meeting 75626311619">/home/dell/Documents/Zoom_recordings/</Path>
+                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/2020-05-27 22.01.51 Sky's Zoom Meeting 75626311619/</Path>
+                  <Path Filename="2020-05-27 23.11.23 Sky's Zoom Meeting 76931808407">/home/dell/Documents/Zoom_recordings/</Path>
+                  <Path Filename="lmallado - libft (27.05.2020).mp4">/home/dell/Documents/Zoom_recordings/2020-05-27 23.11.23 Sky's Zoom Meeting 76931808407/</Path>
+                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/</Path>
+                  <Path Filename="..">/home/dell/Documents/</Path>
+                  <Path Filename="Downloads">/home/dell/</Path>
+                  <Path Filename="Цысинь_Лю_-_ВпопЗ_01_Задача_трех_тел_Оробчук_С">/home/dell/Downloads/</Path>
+                  <Path Filename="..">/home/dell/Downloads/Цысинь_Лю_-_ВпопЗ_01_Задача_трех_тел_Оробчук_С/</Path>
+                  <Path Filename="..">/home/dell/Downloads/</Path>
+                  <Path Filename="Documents">/home/dell/</Path>
+                  <Path Filename="Zoom_recordings">/home/dell/Documents/</Path>
+                  <Path Filename="2020-05-30 21.12.01 Sky's Zoom Meeting 74140606510">/home/dell/Documents/Zoom_recordings/</Path>
+                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/2020-05-30 21.12.01 Sky's Zoom Meeting 74140606510/</Path>
+                  <Path Filename="2020-06-02 02.17.09 Sky's Zoom Meeting 77910293846">/home/dell/Documents/Zoom_recordings/</Path>
+                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/2020-06-02 02.17.09 Sky's Zoom Meeting 77910293846/</Path>
+                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/</Path>
+                  <Path Filename="Zoom_recordings">/home/dell/Documents/</Path>
+                  <Path Filename="Downloads">/home/dell/</Path>
+                  <Path Filename="Фёдор Борщёв - Как автоматизировать работу, чтобы быстрее писать код (2020)">/home/dell/Downloads/</Path>
+                  <Path Filename="dev-automation-cut.mp4">/home/dell/Downloads/Фёдор Борщёв - Как автоматизировать работу, чтобы быстрее писать код (2020)/</Path>
+                  <Path Filename="..">/home/dell/Downloads/</Path>
+                  <Path Filename="Downloads">/home/dell/</Path>
+                  <Path Filename="TEMP-calibre">/home/dell/Downloads/</Path>
+                  <Path Filename="lib">/home/dell/Downloads/TEMP-calibre/</Path>
+                  <Path Filename="qt_plugins">/home/dell/Downloads/TEMP-calibre/lib/</Path>
+                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/lib/qt_plugins/</Path>
+                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/lib/</Path>
+                  <Path Filename="bin">/home/dell/Downloads/TEMP-calibre/</Path>
+                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/bin/</Path>
+                  <Path Filename="lib">/home/dell/Downloads/TEMP-calibre/</Path>
+                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/lib/</Path>
+                  <Path Filename="resources">/home/dell/Downloads/TEMP-calibre/</Path>
+                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/resources/</Path>
+                  <Path Filename="resources">/home/dell/Downloads/TEMP-calibre/</Path>
+                  <Path Filename="rar">/home/dell/Downloads/</Path>
+                  <Path Filename="unrar">/home/dell/Downloads/rar/</Path>
+                  <Path Filename="..">/home/dell/Downloads/rar/unrar/</Path>
+                  <Path Filename="..">/home/dell/Downloads/rar/</Path>
+                  <Path Filename="..">/home/dell/Downloads/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -405,35 +405,53 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/usr/lib/doublecmd/</Path>
-                  <Path Filename="..">/run/user/1000/doc/</Path>
-                  <Path Filename="..">/media/dell/OS/</Path>
-                  <Path Filename="..">/media/dell/</Path>
-                  <Path Filename="..">/media/</Path>
-                  <Path Filename="lib">/</Path>
-                  <Path Filename="..">/home/dell/Downloads/[sharewood.biz] [Константин Шереметьев, Артем Проскурнев] Практика программирования на языке Си(C) для начинающих (2018)/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Desktop">/home/dell/</Path>
-                  <Path Filename="..">/home/dell/Desktop/</Path>
-                  <Path Filename="Documents">/home/dell/</Path>
-                  <Path Filename="..">/home/dell/Documents/</Path>
-                  <Path Filename="Games">/home/dell/</Path>
-                  <Path Filename="..">/home/dell/Games/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/</Path>
-                  <Path Filename="dell">/home/</Path>
-                  <Path Filename="Games">/home/dell/</Path>
-                  <Path Filename="Northgard">/home/dell/Games/</Path>
-                  <Path Filename="Northgard - The Viking Age">/home/dell/Games/Northgard/</Path>
-                  <Path Filename="run.sh">/home/dell/Games/Northgard/Northgard - The Viking Age/</Path>
-                  <Path Filename="..">/home/dell/Games/</Path>
-                  <Path Filename=".oh-my-zsh">/home/dell/</Path>
-                  <Path Filename="plugins">/home/dell/.oh-my-zsh/</Path>
                   <Path Filename="zsh-syntax-highlighting">/home/dell/.oh-my-zsh/plugins/</Path>
                   <Path Filename="..">/home/dell/.oh-my-zsh/plugins/zsh-syntax-highlighting/</Path>
                   <Path Filename="zsh-syntax-highlighting">/home/dell/.oh-my-zsh/plugins/</Path>
                   <Path Filename="plugins">/home/dell/.oh-my-zsh/</Path>
+                  <Path Filename="coding_time">/home/dell/</Path>
+                  <Path Filename="school_21">/home/dell/coding_time/</Path>
+                  <Path Filename="..">/home/dell/coding_time/school_21/</Path>
+                  <Path Filename="..">/home/dell/coding_time/</Path>
+                  <Path Filename="Games">/home/dell/</Path>
+                  <Path Filename="Godhood">/home/dell/Games/</Path>
+                  <Path Filename="..">/home/dell/Games/Godhood/</Path>
+                  <Path Filename="..">/home/dell/Games/</Path>
+                  <Path Filename="coding_time">/home/dell/</Path>
+                  <Path Filename="school_21">/home/dell/coding_time/</Path>
+                  <Path Filename="get_next_line">/home/dell/coding_time/school_21/</Path>
+                  <Path Filename="sample.txt">/home/dell/coding_time/school_21/get_next_line/</Path>
+                  <Path Filename="libft">/home/dell/coding_time/school_21/</Path>
+                  <Path Filename="libft-atable">/home/dell/coding_time/school_21/libft/</Path>
+                  <Path Filename="..">/home/dell/coding_time/school_21/</Path>
+                  <Path Filename="school_21">/home/dell/coding_time/</Path>
+                  <Path Filename="usr">/</Path>
+                  <Path Filename="local">/usr/</Path>
+                  <Path Filename="bin">/usr/local/</Path>
+                  <Path Filename="..">/usr/local/bin/</Path>
+                  <Path Filename="coding_time">/home/dell/</Path>
+                  <Path Filename="school_21">/home/dell/coding_time/</Path>
+                  <Path Filename="..">/home/dell/coding_time/school_21/</Path>
+                  <Path Filename="..">/home/dell/coding_time/</Path>
+                  <Path Filename="Games">/home/dell/</Path>
+                  <Path Filename="Morrowind">/home/dell/Games/</Path>
+                  <Path Filename="Morrowind_ENG">/home/dell/Games/Morrowind/</Path>
+                  <Path Filename="Data Files">/home/dell/Games/Morrowind/Morrowind_ENG/</Path>
+                  <Path Filename="..">/home/dell/Games/Morrowind/Morrowind_ENG/Data Files/</Path>
+                  <Path Filename="..">/home/dell/Games/Morrowind/Morrowind_ENG/</Path>
+                  <Path Filename="..">/home/dell/Games/Morrowind/</Path>
+                  <Path Filename="..">/home/dell/Games/</Path>
+                  <Path Filename="..">/home/dell/</Path>
+                  <Path Filename="..">/home/</Path>
+                  <Path Filename="usr">/</Path>
+                  <Path Filename="lib">/usr/</Path>
+                  <Path Filename="..">/usr/lib/</Path>
+                  <Path Filename="Games">/home/dell/</Path>
+                  <Path Filename="Morrowind">/home/dell/Games/</Path>
+                  <Path Filename="Morrowind_ENG">/home/dell/Games/Morrowind/</Path>
+                  <Path Filename="Data Files">/home/dell/Games/Morrowind/Morrowind_ENG/</Path>
+                  <Path Filename="..">/home/dell/Games/Morrowind/Morrowind_ENG/Data Files/</Path>
+                  <Path Filename="..">/home/dell/Games/</Path>
                   <Path Filename="coding_time">/home/dell/</Path>
                   <Path Filename="school_21">/home/dell/coding_time/</Path>
                   <Path Filename="..">/home/dell/coding_time/school_21/</Path>
@@ -478,7 +496,7 @@
     <PersonalizedGiga>GB</PersonalizedGiga>
     <PersonalizedTera>TB</PersonalizedTera>
     <MinimizeToTray>True</MinimizeToTray>
-    <AlwaysShowTrayIcon>False</AlwaysShowTrayIcon>
+    <AlwaysShowTrayIcon>True</AlwaysShowTrayIcon>
     <Mouse>
       <Selection Enabled="True">
         <Button>1</Button>
