@@ -81,6 +81,7 @@ source $ZSH/oh-my-zsh.sh
 export MANPATH="/usr/local/man:$MANPATH"
 export MANPAGER="sh -c 'col -bx | batcat -l man -p'"
 export MANROFFOPT="-c"
+export BAT_PAGER="less -RF"
 
 # 'tldr' settings
 complete -W "$(tldr 2>/dev/null --list)" tldrcomplete -W "$(tldr 2>/dev/null --list)" tldr
@@ -125,4 +126,4 @@ alias open='xdg-open'
 alias c='clear'
 alias dev='cd ~/coding_time/school_21/'
 alias re='source ~/.zshrc'
-alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all'
+alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
