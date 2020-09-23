@@ -124,6 +124,10 @@ alias fd='fdfind'
 alias f='fzf --preview="batcat {} --color=always"'
 alias open='xdg-open'
 alias c='clear'
-alias dev='cd ~/coding_time/school_21/'
+alias dev='cd ~/coding_time/school_21/cub3d'
 alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

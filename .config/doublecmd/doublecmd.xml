@@ -332,56 +332,56 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting/</Path>
-                  <Path Filename="zsh-syntax-highlighting">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/zsh-syntax-highlighting/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="Celestian Tales Old North - GOG Linux">/home/dell/Downloads/</Path>
-                  <Path Filename="Documents">/home/dell/</Path>
-                  <Path Filename="Zoom_recordings">/home/dell/Documents/</Path>
-                  <Path Filename="2020-05-27 22.01.51 Sky's Zoom Meeting 75626311619">/home/dell/Documents/Zoom_recordings/</Path>
-                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/2020-05-27 22.01.51 Sky's Zoom Meeting 75626311619/</Path>
-                  <Path Filename="2020-05-27 23.11.23 Sky's Zoom Meeting 76931808407">/home/dell/Documents/Zoom_recordings/</Path>
-                  <Path Filename="lmallado - libft (27.05.2020).mp4">/home/dell/Documents/Zoom_recordings/2020-05-27 23.11.23 Sky's Zoom Meeting 76931808407/</Path>
-                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/</Path>
-                  <Path Filename="..">/home/dell/Documents/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="Цысинь_Лю_-_ВпопЗ_01_Задача_трех_тел_Оробчук_С">/home/dell/Downloads/</Path>
-                  <Path Filename="..">/home/dell/Downloads/Цысинь_Лю_-_ВпопЗ_01_Задача_трех_тел_Оробчук_С/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Documents">/home/dell/</Path>
-                  <Path Filename="Zoom_recordings">/home/dell/Documents/</Path>
-                  <Path Filename="2020-05-30 21.12.01 Sky's Zoom Meeting 74140606510">/home/dell/Documents/Zoom_recordings/</Path>
-                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/2020-05-30 21.12.01 Sky's Zoom Meeting 74140606510/</Path>
-                  <Path Filename="2020-06-02 02.17.09 Sky's Zoom Meeting 77910293846">/home/dell/Documents/Zoom_recordings/</Path>
-                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/2020-06-02 02.17.09 Sky's Zoom Meeting 77910293846/</Path>
-                  <Path Filename="..">/home/dell/Documents/Zoom_recordings/</Path>
-                  <Path Filename="Zoom_recordings">/home/dell/Documents/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="Фёдор Борщёв - Как автоматизировать работу, чтобы быстрее писать код (2020)">/home/dell/Downloads/</Path>
-                  <Path Filename="dev-automation-cut.mp4">/home/dell/Downloads/Фёдор Борщёв - Как автоматизировать работу, чтобы быстрее писать код (2020)/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
-                  <Path Filename="Downloads">/home/dell/</Path>
-                  <Path Filename="TEMP-calibre">/home/dell/Downloads/</Path>
-                  <Path Filename="lib">/home/dell/Downloads/TEMP-calibre/</Path>
-                  <Path Filename="qt_plugins">/home/dell/Downloads/TEMP-calibre/lib/</Path>
-                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/lib/qt_plugins/</Path>
-                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/lib/</Path>
-                  <Path Filename="bin">/home/dell/Downloads/TEMP-calibre/</Path>
-                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/bin/</Path>
-                  <Path Filename="lib">/home/dell/Downloads/TEMP-calibre/</Path>
-                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/lib/</Path>
-                  <Path Filename="resources">/home/dell/Downloads/TEMP-calibre/</Path>
-                  <Path Filename="..">/home/dell/Downloads/TEMP-calibre/resources/</Path>
-                  <Path Filename="resources">/home/dell/Downloads/TEMP-calibre/</Path>
-                  <Path Filename="rar">/home/dell/Downloads/</Path>
-                  <Path Filename="unrar">/home/dell/Downloads/rar/</Path>
-                  <Path Filename="..">/home/dell/Downloads/rar/unrar/</Path>
-                  <Path Filename="..">/home/dell/Downloads/rar/</Path>
-                  <Path Filename="..">/home/dell/Downloads/</Path>
+                  <Path Filename="Megamagic">/home/dell/.config/unity3d/BeautiFun Games/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/BeautiFun Games/Megamagic/</Path>
+                  <Path Filename="Megamagic">/home/dell/.config/unity3d/BeautiFun Games/</Path>
+                  <Path Filename="Convoy Games">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="Convoy">/home/dell/.config/unity3d/Convoy Games/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Convoy Games/Convoy/</Path>
+                  <Path Filename="Convoy">/home/dell/.config/unity3d/Convoy Games/</Path>
+                  <Path Filename="CreativeForge Games S.A.">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/CreativeForge Games S.A./</Path>
+                  <Path Filename="Dodge Roll">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Dodge Roll/</Path>
+                  <Path Filename="Ekuator Games">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Ekuator Games/</Path>
+                  <Path Filename="Klei">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Klei/</Path>
+                  <Path Filename="Pixelsplit">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="Deadly Days">/home/dell/.config/unity3d/Pixelsplit/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Pixelsplit/Deadly Days/</Path>
+                  <Path Filename="Deadly Days">/home/dell/.config/unity3d/Pixelsplit/</Path>
+                  <Path Filename="Ristaccia LLC">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Ristaccia LLC/</Path>
+                  <Path Filename="Unknown Vendor">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="Unknown Unity Application">/home/dell/.config/unity3d/Unknown Vendor/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Unknown Vendor/Unknown Unity Application/</Path>
+                  <Path Filename="Unknown Unity Application">/home/dell/.config/unity3d/Unknown Vendor/</Path>
+                  <Path Filename="Unknown Vendor">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="Unknown Unity Application">/home/dell/.config/unity3d/Unknown Vendor/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Unknown Vendor/Unknown Unity Application/</Path>
+                  <Path Filename="Unknown Unity Application">/home/dell/.config/unity3d/Unknown Vendor/</Path>
+                  <Path Filename="VITALI KIRPU &amp; QUADRO DELTA">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="Pixel Piracy">/home/dell/.config/unity3d/VITALI KIRPU &amp; QUADRO DELTA/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/VITALI KIRPU &amp; QUADRO DELTA/Pixel Piracy/</Path>
+                  <Path Filename="Pixel Piracy">/home/dell/.config/unity3d/VITALI KIRPU &amp; QUADRO DELTA/</Path>
+                  <Path Filename="Whale Hammer Games">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Whale Hammer Games/</Path>
+                  <Path Filename="Whalenought Studios">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Whalenought Studios/</Path>
+                  <Path Filename="Luden.io">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Luden.io/</Path>
+                  <Path Filename="Luden_io">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="..">/home/dell/.config/unity3d/Luden_io/</Path>
+                  <Path Filename="Luden_io">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="unity3d">/home/dell/.config/</Path>
+                  <Path Filename="Klei">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="Oxygen Not Included">/home/dell/.config/unity3d/Klei/</Path>
+                  <Path Filename="save_files">/home/dell/.config/unity3d/Klei/Oxygen Not Included/</Path>
+                  <Path Filename="Oxygen Not Included">/home/dell/.config/unity3d/Klei/</Path>
+                  <Path Filename="Luden.io">/home/dell/.config/unity3d/</Path>
+                  <Path Filename="unity3d">/home/dell/.config/</Path>
+                  <Path Filename="..">/home/dell/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -405,56 +405,56 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="zsh-syntax-highlighting">/home/dell/.oh-my-zsh/plugins/</Path>
-                  <Path Filename="..">/home/dell/.oh-my-zsh/plugins/zsh-syntax-highlighting/</Path>
-                  <Path Filename="zsh-syntax-highlighting">/home/dell/.oh-my-zsh/plugins/</Path>
-                  <Path Filename="plugins">/home/dell/.oh-my-zsh/</Path>
-                  <Path Filename="coding_time">/home/dell/</Path>
-                  <Path Filename="school_21">/home/dell/coding_time/</Path>
-                  <Path Filename="..">/home/dell/coding_time/school_21/</Path>
-                  <Path Filename="..">/home/dell/coding_time/</Path>
-                  <Path Filename="Games">/home/dell/</Path>
-                  <Path Filename="Godhood">/home/dell/Games/</Path>
-                  <Path Filename="..">/home/dell/Games/Godhood/</Path>
+                  <Path Filename="..">/home/dell/Games/Rimworld/game/Mods/TradeHelper/</Path>
+                  <Path Filename="QuadIUTweaks">/home/dell/Games/Rimworld/game/Mods/</Path>
+                  <Path Filename="README.md">/home/dell/Games/Rimworld/game/Mods/QuadIUTweaks/</Path>
+                  <Path Filename="QualityBuilder">/home/dell/Games/Rimworld/game/Mods/</Path>
                   <Path Filename="..">/home/dell/Games/</Path>
-                  <Path Filename="coding_time">/home/dell/</Path>
-                  <Path Filename="school_21">/home/dell/coding_time/</Path>
-                  <Path Filename="get_next_line">/home/dell/coding_time/school_21/</Path>
-                  <Path Filename="sample.txt">/home/dell/coding_time/school_21/get_next_line/</Path>
-                  <Path Filename="libft">/home/dell/coding_time/school_21/</Path>
-                  <Path Filename="libft-atable">/home/dell/coding_time/school_21/libft/</Path>
-                  <Path Filename="..">/home/dell/coding_time/school_21/</Path>
-                  <Path Filename="school_21">/home/dell/coding_time/</Path>
-                  <Path Filename="usr">/</Path>
-                  <Path Filename="local">/usr/</Path>
-                  <Path Filename="bin">/usr/local/</Path>
-                  <Path Filename="..">/usr/local/bin/</Path>
-                  <Path Filename="coding_time">/home/dell/</Path>
-                  <Path Filename="school_21">/home/dell/coding_time/</Path>
-                  <Path Filename="..">/home/dell/coding_time/school_21/</Path>
-                  <Path Filename="..">/home/dell/coding_time/</Path>
                   <Path Filename="Games">/home/dell/</Path>
-                  <Path Filename="Morrowind">/home/dell/Games/</Path>
-                  <Path Filename="Morrowind_ENG">/home/dell/Games/Morrowind/</Path>
-                  <Path Filename="Data Files">/home/dell/Games/Morrowind/Morrowind_ENG/</Path>
-                  <Path Filename="..">/home/dell/Games/Morrowind/Morrowind_ENG/Data Files/</Path>
-                  <Path Filename="..">/home/dell/Games/Morrowind/Morrowind_ENG/</Path>
-                  <Path Filename="..">/home/dell/Games/Morrowind/</Path>
+                  <Path Filename="avi">/media/dell/TOSHIBA EXT/</Path>
+                  <Path Filename="Billions S05">/media/dell/TOSHIBA EXT/avi/</Path>
+                  <Path Filename="Billions.S05E06.The.Nordic.Model.AMZN.WEBRip.1080p.NewStudio.mkv">/media/dell/TOSHIBA EXT/avi/Billions S05/</Path>
+                  <Path Filename="Billions.S05E06.The.Nordic.Model.AMZN.WEBRip.1080p.NewStudio.mkv">/media/dell/TOSHIBA EXT/avi/</Path>
+                  <Path Filename="Other">/media/dell/TOSHIBA EXT/</Path>
+                  <Path Filename="Sharewood Stuff">/media/dell/TOSHIBA EXT/Other/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/Other/Sharewood Stuff/</Path>
+                  <Path Filename="Sharewood Stuff">/media/dell/TOSHIBA EXT/Other/</Path>
+                  <Path Filename="DevOps">/media/dell/TOSHIBA EXT/Other/Sharewood Stuff/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/Other/Sharewood Stuff/DevOps/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/Other/Sharewood Stuff/</Path>
+                  <Path Filename="Fastreading">/media/dell/TOSHIBA EXT/Other/</Path>
+                  <Path Filename="avi">/media/dell/TOSHIBA EXT/</Path>
+                  <Path Filename="Billions S05">/media/dell/TOSHIBA EXT/avi/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/avi/Billions S05/</Path>
+                  <Path Filename="Cowboy Bebop">/media/dell/TOSHIBA EXT/avi/</Path>
+                  <Path Filename="Enter the Gungeon - GOG Linux">/media/dell/TOSHIBA EXT/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/Enter the Gungeon - GOG Linux/</Path>
+                  <Path Filename="Oxygen Not Included (AP-420700)">/media/dell/TOSHIBA EXT/</Path>
+                  <Path Filename="OST">/media/dell/TOSHIBA EXT/Oxygen Not Included (AP-420700)/</Path>
+                  <Path Filename="MP3">/media/dell/TOSHIBA EXT/Oxygen Not Included (AP-420700)/OST/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/Oxygen Not Included (AP-420700)/OST/MP3/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/Oxygen Not Included (AP-420700)/OST/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/Oxygen Not Included (AP-420700)/</Path>
+                  <Path Filename="..">/media/dell/TOSHIBA EXT/</Path>
+                  <Path Filename="Documents">/home/dell/</Path>
+                  <Path Filename="..">/home/dell/Documents/</Path>
+                  <Path Filename="Games">/home/dell/</Path>
+                  <Path Filename="Oxygen Not Included">/home/dell/Games/</Path>
+                  <Path Filename="..">/home/dell/Games/Oxygen Not Included/</Path>
                   <Path Filename="..">/home/dell/Games/</Path>
+                  <Path Filename="Pictures">/home/dell/</Path>
+                  <Path Filename="..">/home/dell/Pictures/</Path>
                   <Path Filename="..">/home/dell/</Path>
-                  <Path Filename="..">/home/</Path>
-                  <Path Filename="usr">/</Path>
-                  <Path Filename="lib">/usr/</Path>
-                  <Path Filename="..">/usr/lib/</Path>
-                  <Path Filename="Games">/home/dell/</Path>
-                  <Path Filename="Morrowind">/home/dell/Games/</Path>
-                  <Path Filename="Morrowind_ENG">/home/dell/Games/Morrowind/</Path>
-                  <Path Filename="Data Files">/home/dell/Games/Morrowind/Morrowind_ENG/</Path>
-                  <Path Filename="..">/home/dell/Games/Morrowind/Morrowind_ENG/Data Files/</Path>
-                  <Path Filename="..">/home/dell/Games/</Path>
+                  <Path Filename="dell">/home/</Path>
                   <Path Filename="coding_time">/home/dell/</Path>
                   <Path Filename="school_21">/home/dell/coding_time/</Path>
-                  <Path Filename="..">/home/dell/coding_time/school_21/</Path>
+                  <Path Filename="ft_server">/home/dell/coding_time/school_21/</Path>
+                  <Path Filename="evals">/home/dell/coding_time/school_21/ft_server/</Path>
+                  <Path Filename="ft_server_jsammy">/home/dell/coding_time/school_21/ft_server/evals/</Path>
+                  <Path Filename="srcs">/home/dell/coding_time/school_21/ft_server/evals/ft_server_jsammy/</Path>
+                  <Path Filename="..">/home/dell/coding_time/school_21/ft_server/evals/ft_server_jsammy/srcs/</Path>
+                  <Path Filename="..">/home/dell/coding_time/school_21/ft_server/evals/ft_server_jsammy/</Path>
+                  <Path Filename="ft_server_jsammy">/home/dell/coding_time/school_21/ft_server/evals/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -482,7 +482,7 @@
     <RunInTerminalCloseParams>-e sh -c {command}</RunInTerminalCloseParams>
     <JustRunTerminal>x-terminal-emulator</JustRunTerminal>
     <JustRunTermParams/>
-    <OnlyOneAppInstance>False</OnlyOneAppInstance>
+    <OnlyOneAppInstance>True</OnlyOneAppInstance>
     <LynxLike>True</LynxLike>
     <FileSizeFormat>0</FileSizeFormat>
     <OperationSizeFormat>0</OperationSizeFormat>
@@ -496,7 +496,7 @@
     <PersonalizedGiga>GB</PersonalizedGiga>
     <PersonalizedTera>TB</PersonalizedTera>
     <MinimizeToTray>True</MinimizeToTray>
-    <AlwaysShowTrayIcon>True</AlwaysShowTrayIcon>
+    <AlwaysShowTrayIcon>False</AlwaysShowTrayIcon>
     <Mouse>
       <Selection Enabled="True">
         <Button>1</Button>
@@ -1094,4 +1094,27 @@
       </Columns>
     </ColumnsSet>
   </ColumnsSets>
+  <MultiRenamePresets>
+    <LastPreset>sw</LastPreset>
+    <Presets>
+      <Preset>
+        <Name>sw</Name>
+        <Filename>[N11:99]</Filename>
+        <Extension>[E]</Extension>
+        <FilenameStyle>0</FilenameStyle>
+        <ExtensionStyle>0</ExtensionStyle>
+        <Find/>
+        <Replace/>
+        <RegExp>False</RegExp>
+        <UseSubs>False</UseSubs>
+        <Counter>1</Counter>
+        <Interval>1</Interval>
+        <Width>0</Width>
+        <Log>
+          <Enabled>False</Enabled>
+          <File>/media/dell/TOSHIBA EXT/Other/Sharewood Stuff/Максим Котков - Внутренний ресурс (2020)/1 - Самокалибровка и осознанность/default.log</File>
+        </Log>
+      </Preset>
+    </Presets>
+  </MultiRenamePresets>
 </doublecmd>

@@ -46,5 +46,7 @@
     ],
     "editor.lineNumbers": "relative",
     "editor.renderControlCharacters": false,
+    "explorer.confirmDragAndDrop": false,
+    "C_Cpp.default.cppStandard": "c++17",
 }
 
