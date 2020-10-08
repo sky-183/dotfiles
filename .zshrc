@@ -101,6 +101,10 @@ else
   export EDITOR='vim'
 fi
 
+# Autojump config
+[[ -s /home/dell/.autojump/etc/profile.d/autojump.sh ]] && source /home/dell/.autojump/etc/profile.d/autojump.sh
+autoload -U compinit && compinit -u
+
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
@@ -127,7 +131,7 @@ alias c='clear'
 alias dev='cd ~/coding_time/school_21/cub3d'
 alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
-
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# nvm and node.js stuff, slows dows launch a bit, so will disable when not needed
+# export NVM_DIR="$HOME/.nvm"
+# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+# [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
