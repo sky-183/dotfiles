@@ -128,7 +128,7 @@ alias fd='fdfind'
 alias f='fzf --preview="batcat {} --color=always"'
 alias open='xdg-open'
 alias c='clear'
-alias dev='cd ~/coding_time/school_21/cub3d'
+alias dev='cd ~/coding_time/school_21/cub3d/my'
 alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
 # nvm and node.js stuff, slows dows launch a bit, so will disable when not needed
