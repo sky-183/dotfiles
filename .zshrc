@@ -131,6 +131,7 @@ alias c='clear'
 alias dev='cd ~/coding_time/school_21/cub3d/my'
 alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
+alias glog='git log --all --graph --decorate --oneline'
 # nvm and node.js stuff, slows dows launch a bit, so will disable when not needed
 # export NVM_DIR="$HOME/.nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
