@@ -132,6 +132,11 @@ alias dev='cd ~/coding_time/school_21/cub3d/my'
 alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
 alias glog='git log --all --graph --decorate --oneline'
+
+# some typos
+alias cd..='cd ..'
+alias amke='make'
+
 # alias for applying keyboard settings, which keeps resetting from some bug :-/
 alias kk='dconf write /org/gnome/desktop/peripherals/keyboard/delay "uint32 200";\
 	dconf write /org/gnome/desktop/peripherals/keyboard/repeat-interval "uint32 30";\
