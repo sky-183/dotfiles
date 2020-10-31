@@ -132,6 +132,7 @@ alias dev='cd ~/coding_time/school_21/cub3d/my'
 alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
 alias glog='git log --all --graph --decorate --oneline'
+alias upd='sudo apt update && sudo apt upgrade -y'
 
 # some typos
 alias cd..='cd ..'
