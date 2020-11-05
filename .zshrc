@@ -126,6 +126,7 @@ alias l='exa -lahF'
 alias bat='batcat'
 alias fd='fdfind'
 alias f='fzf --preview="batcat {} --color=always"'
+alias m='make'
 alias open='xdg-open'
 alias c='clear'
 alias dev='cd ~/coding_time/school_21/cub3d/my'
@@ -133,15 +134,12 @@ alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
 alias glog='git log --all --graph --decorate --oneline'
 alias upd='sudo apt update && sudo apt upgrade -y'
+alias zeal='nohup zeal >/dev/null 2>&1 &'
 
 # some typos
 alias cd..='cd ..'
 alias amke='make'
 
-# alias for applying keyboard settings, which keeps resetting from some bug :-/
-alias kk='dconf write /org/gnome/desktop/peripherals/keyboard/delay "uint32 200";\
-	dconf write /org/gnome/desktop/peripherals/keyboard/repeat-interval "uint32 30";\
-	dconf write /org/gnome/desktop/peripherals/keyboard/repeat "true"'
 
 # nvm and node.js stuff, slows dows launch a bit, so will disable when not needed
 # export NVM_DIR="$HOME/.nvm"
