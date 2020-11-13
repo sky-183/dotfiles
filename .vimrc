@@ -24,3 +24,6 @@ set tabstop=4
 set shiftwidth=4
 " default shell
 set shell=/bin/zsh
+" move one 'screen' line at a time instead of one 'true' line at a time
+nmap j gj
+nmap k gk
