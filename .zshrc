@@ -71,7 +71,7 @@ ZSH_THEME="af-magic"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git extract yum sudo zsh-autosuggestions command-not-found)
+plugins=(git extract yum zsh-autosuggestions command-not-found)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -129,13 +129,16 @@ alias f='fzf --preview="batcat {} --color=always"'
 alias m='make'
 alias open='xdg-open'
 alias c='clear'
-alias dev='cd ~/coding_time/school_21/cub3d/my'
+alias dev='cd ~/coding_time/coursera/c++_yandex/3_red'
 alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
 alias glog='git log --all --graph --decorate --oneline'
 alias upd='sudo apt update && sudo apt upgrade -y'
 alias zeal='nohup zeal >/dev/null 2>&1 &'
-
+# safer removing/moving/copying
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
 # some typos
 alias cd..='cd ..'
 alias amke='make'
