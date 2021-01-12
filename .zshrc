@@ -141,6 +141,8 @@ alias cvlc='cvlc --audio-language eng --sub-language eng'
 alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
+# let's be polite
+alias please='sudo'
 # some typos
 alias cd..='cd ..'
 alias amke='make'
