@@ -136,7 +136,7 @@ alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=a
 alias glog='git log --all --graph --decorate --oneline'
 alias upd='sudo apt update && sudo apt upgrade -y'
 alias zeal='nohup zeal >/dev/null 2>&1 &'
-alias watch='cvlc --audio-language eng --sub-language eng'
+alias watch='vlc --audio-language eng --sub-language eng'
 # safer removing/moving/copying
 alias cp='cp -i'
 alias mv='mv -i'
