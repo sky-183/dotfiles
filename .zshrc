@@ -137,6 +137,8 @@ alias glog='git log --all --graph --decorate --oneline'
 alias upd='sudo apt update && sudo apt upgrade -y'
 alias zeal='nohup zeal >/dev/null 2>&1 &'
 alias watch='vlc --audio-language eng --sub-language eng'
+alias python='python3'
+alias i='ipython3'
 # safer removing/moving/copying
 alias cp='cp -i'
 alias mv='mv -i'
