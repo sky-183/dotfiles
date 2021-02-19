@@ -154,15 +154,3 @@ alias amke='make'
 # export NVM_DIR="$HOME/.nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 # [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
-# Add environment variable COCOS_CONSOLE_ROOT for cocos2d-x
-#export COCOS_CONSOLE_ROOT="/home/dell/Downloads/cocos2d-x-4.0/tools/cocos2d-console/bin"
-#export PATH=$COCOS_CONSOLE_ROOT:$PATH
-
-# Add environment variable COCOS_X_ROOT for cocos2d-x
-#export COCOS_X_ROOT="/home/dell/Downloads"
-#export PATH=$COCOS_X_ROOT:$PATH
-
-# Add environment variable COCOS_TEMPLATES_ROOT for cocos2d-x
-#export COCOS_TEMPLATES_ROOT="/home/dell/Downloads/cocos2d-x-4.0/templates"
-#export PATH=$COCOS_TEMPLATES_ROOT:$PATH
