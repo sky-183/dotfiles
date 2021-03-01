@@ -140,6 +140,7 @@ alias zeal='nohup zeal >/dev/null 2>&1 &'
 alias watch='vlc --audio-language eng --sub-language eng'
 alias i='ipython3'
 alias doc='darglint -v2 -s sphinx'
+alias manage='python3 manage.py'
 alias runserver='python3 manage.py runserver'
 # safer removing/moving/copying
 alias cp='cp -i'
