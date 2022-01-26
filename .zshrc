@@ -1,7 +1,5 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
-# for 42 header vim plugin
-export USER42=vflander
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/dell/.oh-my-zsh"
@@ -114,7 +112,6 @@ autoload -U compinit && compinit -u
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-#alias norminette="~/coding_time/school_21/norminette/norminette"
 alias zshconfig="vim ~/.zshrc"
 alias vimconfig="vim ~/.vimrc"
 alias brightness="xrandr --output HDMI-1 --brightness" #+value from 0.3 to 1.2
@@ -130,7 +127,6 @@ alias m='make'
 alias open='xdg-open'
 alias o='open'
 alias c='clear'
-alias dev='cd ~/coding_time/web/django'
 alias hdd='/media/dell/TOSHIBA\ EXT'
 alias re='source ~/.zshrc'
 alias leaks='valgrind --leak-check=full --track-origins=yes  --show-leak-kinds=all -s'
@@ -141,14 +137,13 @@ alias watch='vlc --audio-language eng --sub-language eng'
 alias i='ipython3'
 alias b='bpython'
 alias doc='darglint -v2 -s sphinx'
+# django stuff
 alias manage='python3 manage.py'
 alias runserver='python3 manage.py runserver'
 # safer removing/moving/copying
 alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
-# let's be polite
-alias please='sudo'
 # some typos
 alias cd..='cd ..'
 alias amke='make'
@@ -158,3 +153,5 @@ alias amke='make'
 # export NVM_DIR="$HOME/.nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 # [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+

@@ -1,29 +1,49 @@
 {
-    "42header.username": "vflander",
-    "42header.email": "marvin@42.fr",
-
     "vim.easymotion": true,
     "vim.incsearch": true,
     "vim.useSystemClipboard": true,
     "vim.useCtrlKeys": true,
     "vim.hlsearch": true,
-    "vim.insertModeKeyBindings": [
-      {
-        "before": ["j", "j"],
-        "after": ["<Esc>"]
-      }
-    ],
-    "workbench.colorTheme": "Material Theme Ocean",
+    // "vim.insertModeKeyBindings": [
+    //   {
+    //     "before": ["j", "j"],
+    //     "after": ["<Esc>"]
+    //   }
+    // ],
+
+    // keep those key bindings to VS Code
+    "vim.handleKeys": {
+      "<C-a>": false,
+      "<C-f>": false, // for nice built-in search
+      "<C-c>": false,
+      "<C-v>": false,
+      "<C-x>": false,
+      "<C-b>": false,
+      "<C-n>": false, // for advanced new file extension
+      "<C-w>": false, // for closing current window
+    },
+    "workbench.colorTheme": "One Dark Pro",
     "vim.commandLineModeKeyBindingsNonRecursive": [
     ],
 
-    "keyboard.dispatch": "keyCode",
 
+    "keyboard.dispatch": "keyCode",
     "editor.tabSize": 4,
     "editor.insertSpaces": false,
-    "editor.renderWhitespace": "all",
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
+    // When opening a file, `editor.tabSize` and `editor.insertSpaces`
+    // will be detected based on the file contents. Set to false to keep
+    // the values you've explicitly set, above.
+    "editor.detectIndentation": true,
+    "[python]":{
+        // when auto-detection does some wierd things
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.insertSpaces": true,
+        "editor.codeActionsOnSave": {
+          "source.organizeImports": true
+        }
+    },
 
     "C_Cpp.updateChannel": "Insiders",
     "gitlens.remotes": [],
@@ -35,18 +55,204 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "sync.gist": "ab4b2eaa5a56c796fc85d1740a026265",
-    "python.languageServer": "Microsoft",
+    "python.languageServer": "Pylance",
     "editor.useTabStops": false,
     "bracket-pair-colorizer-2.colors": [
 
       "Green",
       "Gold",
-      "#55F"
-      //"LightSkyBlue"
+      //"#55F"
+      "LightSkyBlue"
     ],
     "editor.lineNumbers": "relative",
-    "editor.renderControlCharacters": false,
     "explorer.confirmDragAndDrop": false,
     "C_Cpp.default.cppStandard": "c++17",
+    "zenMode.hideLineNumbers": false,
+    "zenMode.restore": true,
+    "terminal.external.linuxExec": "zsh",
+    "todo-tree.tree.showScanModeButton": false,
+    // "editor.fontFamily": "'Source Code Pro', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.defaultFormatter": "ms-python.python",
+    "[c]": {
+      "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "window.zoomLevel": 1,
+    "doxdocgen.c.firstLine": "/*",
+    "doxdocgen.c.lastLine": "*/\n",
+    "doxdocgen.c.commentPrefix": "**\t",
+    //"doxdocgen.generic.paramTemplate": "@param{indent:12}{param}{indent:32}My Param doc",
+    "doxdocgen.generic.paramTemplate": "@param\t{param}\t\tDOC",
+    "doxdocgen.generic.returnTemplate": "@return\t{type}\tDOC",
+    "doxdocgen.generic.briefTemplate": "@brief\t{text}",
+    "better-comments.tags": [
+      {
+        "tag": "!",
+        "color": "#FF2D00",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "tag": "?",
+        "color": "#3498DB",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "tag": "//",
+        "color": "#474747",
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      /*
+      {
+        "tag": "todo",
+        "color": "#FF8C00",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      */
+      {
+        "tag": "*",
+        "color": "#98C379",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "tag": "**",
+        "color": "#557042",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+      {
+        "tag": "#",
+        "color": "#557042",
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false
+      },
+    ],
+    "terminal.explorerKind": "external",
+    "ai-docstring.docstringFormat": "sphinx",
+    // because overriding with BetterComments doesnt work :-/
+    // "editor.tokenColorCustomizations": {
+    //  "comments": "#557042"
+    // },
+
+    // trying cursive fornts
+    "editor.fontLigatures": true,
+    // 'Operator Mono Regular', - no RUS
+    // 'Fira Code iScript', - no RUS
+    "editor.fontFamily": "'Fira Code iScript', 'Source Code Pro', Consolas, 'Courier New', monospace",
+
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": [
+            //following will be in italic (=FlottFlott)
+            "comment",
+            // "entity.name.type.class", //class names
+            // "keyword", //import, export, return…
+            // "constant", //String, Number, Boolean…, this, super
+            // "storage.modifier", //static keyword
+            // "storage.type.class.js", //class keyword
+          ],
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": [
+            //following will be excluded from italics (VSCode has some defaults for italics)
+            "keyword", //import, export, return…
+            "invalid",
+            "keyword.operator",
+            "constant.numeric.css",
+            "keyword.other.unit.px.css",
+            "constant.numeric.decimal.js",
+            "constant.numeric.json"
+          ],
+          "settings": {
+            "fontStyle": ""
+          }
+        }
+      ]
+    },
+    "oneDarkPro.italic": false,
+    "oneDarkPro.editorTheme": "oneDarkPro",
+    "autoDocstring.docstringFormat": "sphinx",
+    "python.defaultInterpreterPath": "python3",
+    // auto ativate venv
+    "python.terminal.activateEnvironment": true,
+    "python.formatting.provider": "black",
+    "python.pythonPath": "python3",
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": true,
+    "editor.formatOnSave": true,
+    "python.testing.pytestPath": "/home/dell/.local/bin/pytest",
+    "python.formatting.blackPath": "/home/dell/.local/bin/black",
+    "python.formatting.blackArgs": [
+        "--line-length=79"
+    ],
+    "python.linting.mypyPath": "/home/dell/.local/bin/mypy",
+    "python.linting.mypyEnabled": true,
+    "python.linting.pydocstylePath": "/home/dell/.local/bin/pydocstyle",
+    "python.linting.pylintPath": "/home/dell/.local/bin/pylint",
+    // isort
+    "python.sortImports.args": [
+      "-w79" // line length
+    ],
+    // Django templates
+    "files.associations": {
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "beautify.language": {
+      "html": [
+          "htm",
+          "html",
+          "django-html"
+      ]
+    },
+    "files.exclude": {
+      ".mypy_cache": true,
+      ".pytest_cache": true,
+      "**/__pycache__": true,
+      "**/env/": true
+    },
+    "workbench.editorAssociations": {
+      "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "python.showStartPage": true,
+    "sourcery.token": "user_jkkPQtH7jaC_2pTC899xh9nH_g4zW5PnYHxyCUsIq4r55PjiYBHMmcVT76k",
+    "tabnine.experimentalAutoImports": true,
+    "security.workspace.trust.enabled": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+
 }
 
