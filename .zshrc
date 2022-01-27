@@ -2,7 +2,7 @@
 export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/dell/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 . /etc/zsh_command_not_found
 
 # Set name of the theme to load --- if set to "random", it will
@@ -100,7 +100,7 @@ else
 fi
 
 # Autojump config
-[[ -s /home/dell/.autojump/etc/profile.d/autojump.sh ]] && source /home/dell/.autojump/etc/profile.d/autojump.sh
+[[ -s $HOME/.autojump/etc/profile.d/autojump.sh ]] && source $HOME/.autojump/etc/profile.d/autojump.sh
 autoload -U compinit && compinit -u
 
 # Compilation flags
@@ -115,8 +115,8 @@ autoload -U compinit && compinit -u
 alias zshconfig="vim ~/.zshrc"
 alias vimconfig="vim ~/.vimrc"
 alias brightness="xrandr --output HDMI-1 --brightness" #+value from 0.3 to 1.2
-source /home/dell/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-alias config='/usr/bin/git --git-dir=/home/dell/.cfg/ --work-tree=/home/dell'
+source $HOME/.oh-my-zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 alias ll='exa -l'
 alias ls='exa'
 alias l='exa -lahF'
@@ -153,5 +153,3 @@ alias amke='make'
 # export NVM_DIR="$HOME/.nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 # [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
-
